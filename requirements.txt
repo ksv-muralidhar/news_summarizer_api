@@ -1,0 +1,8 @@
+transformers==4.39.3
+tensorflow==2.15.0
+unidecode
+tf-keras==2.15.0
+selenium==4.19.0
+fastapi
+pydantic
+uvicorn
